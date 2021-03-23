@@ -1,0 +1,12 @@
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.csprojAssemblyReference.cache
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfoInputs.cache
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfo.cs
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.csproj.CoreCompileInputs.cache
+/Users/Jake/Projects/Animals/bin/Debug/netcoreapp3.1/Animals.deps.json
+/Users/Jake/Projects/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.json
+/Users/Jake/Projects/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.dev.json
+/Users/Jake/Projects/Animals/bin/Debug/netcoreapp3.1/Animals.dll
+/Users/Jake/Projects/Animals/bin/Debug/netcoreapp3.1/Animals.pdb
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.dll
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.pdb
+/Users/Jake/Projects/Animals/obj/Debug/netcoreapp3.1/Animals.genruntimeconfig.cache
